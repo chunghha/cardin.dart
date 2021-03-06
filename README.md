@@ -2,7 +2,7 @@
 
 Flutter [Cardin](https://github.com/chunghha/cardin.dart) theme.
 
-![Example app using Cardin theme](screenshot.png)
+![Example app using Cardin theme](cardin_themes.png)
 
 ## Credits
 

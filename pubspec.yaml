@@ -1,19 +1,19 @@
 name: cardin
-version: 0.0.0-dev.1
+version: 0.1.0-dev.2
 
 description: Flutter Cardin theme
 
 homepage: https://github.com/chunghha/cardin.dart
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
-  flutter: ">=1.17.0 <2.0.0"
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=2.0.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
   
-  supercharged: ^1.12.0
+  supercharged: ^2.0.0-nullsafety.2
 
 dev_dependencies:
   flutter_test:
